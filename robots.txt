@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jtcodes1.github.io/sitemap.xml
